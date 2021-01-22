@@ -72,10 +72,9 @@ section{
     font-family: Bebas Neue;
 }
 
-.biography{
-    background-image: url("images/biography-bg.png");
-    background-repeat: no-repeat;
-    padding-bottom: 300px;
+.about-title{
+    font-size: 48px;
+    color:#363958;
 }
 
 .bio-details{
