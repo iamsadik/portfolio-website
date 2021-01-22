@@ -68,13 +68,11 @@ section{
 
 .head-margin{
     margin-top: 150px;
-    font-size: 40px;
     font-family: Bebas Neue;
-}
-
-.about-title{
     font-size: 48px;
     color:#363958;
+}
+    
 }
 
 .bio-details{
